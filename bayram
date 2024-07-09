@@ -1,0 +1,444 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="14" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/6.png" group-title="BAYRAM",Ashgabat
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="https://asam.gov.tm/static/main/img/tv%20(8).png" group-title="BAYRAM",Arkadag TV
+https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/1.png" group-title="BAYRAM",Altyn asyr
+https://horjuntv.com.tm/chanel2/ch001_720/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/5.png" group-title="BAYRAM",Turkmen owaz
+http://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/7.png" group-title="BAYRAM",Turkmenistan
+https://horjuntv.com.tm/chanel2/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/3.png" group-title="BAYRAM",Miras 
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/2.png" group-title="BAYRAM",Yaslyk TV
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/4.png" group-title="BAYRAM",Turkmen sport
+https://horjuntv.com.tm/chanel2/ch007_720/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/998px-Atv_logo_2010.svg.png" group-title="BAYRAM",ATV
+https://horjuntv.com.tm/chanel/ch094_720/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/37.png" group-title="BAYRAM",Жара TV
+https://m.horjuntv.com.tm/chanel2/ch096_720/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://toplogos.ru/images/logo-tnt-music.png" group-title="BAYRAM",THT music
+https://horjuntv.com.tm/chanel/ch036_720/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/40.png" group-title="BAYRAM",O2 TV
+https://horjuntv.com.tm/chanel2/ch086_720/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://assets.iptv2022.com/static/channel/10245/logo_256_1658733804.png" group-title="BAYRAM",Music box RU
+https://m.horjuntv.com.tm/chanel/ch046_720/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/17.png" group-title="BAYRAM",Восток TV
+https://horjuntv.com.tm/chanel/ch085_720/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/9.png" group-title="BAYRAM",CTC
+https://horjuntv.com.tm/chanel2/ch021_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/13.png" group-title="BAYRAM",Пятница
+https://m.horjuntv.com.tm/chanel/ch056_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" group-title="BAYRAM",STAR TV
+https://m.horjuntv.com.tm/chanel/ch092_720/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/16.png" group-title="BAYRAM",Show TV
+https://horjuntv.com.tm/chanel/ch091_720/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="https://uzdtv.uz/images/channel_1606477125.png" group-title="BAYRAM",Kinoteatr
+https://horjuntv.com.tm/chanel2/ch066_720/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://toplogos.ru/images/logo-mir-24.png" group-title="BAYRAM",Mir 24
+https://horjuntv.com.tm/chanel2/ch030_720/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/26.png" group-title="BAYRAM",Матч боес
+https://m.horjuntv.com.tm/chanel/ch097_720/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg" group-title="BAYRAM",Kanal 7
+https://horjuntv.com.tm/chanel/ch035_720/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4e/Kanal_D.png" group-title="BAYRAM",Kanal D
+https://horjuntv.com.tm/chanel/ch082_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://toplogos.ru/images/logo-tv3.png" group-title="BAYRAM",TV 3
+https://horjuntv.com.tm/chanel2/ch034_720/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/29.png" group-title="BAYRAM",Че!
+https://horjuntv.com.tm/chanel/ch026_720/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/44.png" group-title="BAYRAM",TV 8
+https://horjuntv.com.tm/chanel2/ch095_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/a5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%C2%BB_%D1%81_16_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2017.png" group-title="BAYRAM",Домашний
+https://m.horjuntv.com.tm/chanel/ch029_720/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TRT_M%C3%BCzik_kurumsal_logo.png/1200px-TRT_M%C3%BCzik_kurumsal_logo.png" group-title="BAYRAM",TRT music
+https://horjuntv.com.tm/chanel/ch077_720/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/2560px-DMAX_Spain_2023_Logo.svg.png" group-title="BAYRAM",D max
+https://horjuntv.com.tm/chanel2/ch083_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/2560px-RBK_logo.svg.png" group-title="BAYRAM",РБК
+https://m.horjuntv.com.tm/chanel2/ch053_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://toplogos.ru/images/logo-ren-tv.png" group-title="BAYRAM",REN TV
+https://m.horjuntv.com.tm/chanel/ch037_720/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/36.png" group-title="BAYRAM",Дикая охота
+https://horjuntv.com.tm/chanel2/ch099_720/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="https://toplogos.ru/images/logo-zvezda.png" group-title="BAYRAM",Звезда
+https://horjuntv.com.tm/chanel2/ch019_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/21.png" group-title="BAYRAM",Звезда +
+https://m.horjuntv.com.tm/chanel/ch020_720/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/9.png" group-title="BAYRAM",CTC +
+https://horjuntv.com.tm/chanel/ch023_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/28.png" group-title="BAYRAM",НТВ
+https://m.horjuntv.com.tm/chanel/ch017_400/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/100.jpg" group-title="BAYRAM",Mono TV
+https://horjuntv.com.tm/chanel/ch0100_720/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" group-title="BAYRAM",IDman TV
+https://horjuntv.com.tm/chanel/ch062_720/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/2560px-TRT_1_logo_%282001-2005%29.svg.png" group-title="BAYRAM",TRT 1
+https://horjuntv.com.tm/chanel/ch076_720/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="https://toplogos.ru/images/logo-perviy-kanal-hd.png" group-title="BAYRAM",Первый канал
+https://horjuntv.com.tm/chanel/ch008_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="BAYRAM",CCTV
+https://horjuntv.com.tm/chanel2/ch061_720/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="BAYRAM",EURO news
+https://horjuntv.com.tm/chanel/ch059_720/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/47.png" group-title="BAYRAM",Rossiya 1
+https://horjuntv.com.tm/chanel2/ch010_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/19.png" group-title="BAYRAM",Россия 24
+https://m.horjuntv.com.tm/chanel/ch014_720/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/38.png" group-title="BAYRAM",Chochuklar
+https://horjuntv.com.tm/chanel2/ch088_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/15.png" group-title="BAYRAM",МУЛТ TV
+https://m.horjuntv.com.tm/chanel/ch051_720/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/53.png" group-title="BAYRAM",Fudbol TV
+https://horjuntv.com.tm/chanel2/ch093_720/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://toplogos.ru/images/logo-nash-futbol.jpg" group-title="BAYRAM",FUDBOOL TV
+https://m.horjuntv.com.tm/chanel2/ch052_720/index.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" group-title="BAYRAM",BIZ TV
+https://fl.biztv.media/biz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="BAYRAM",BIZ CINEMA
+https://fl.biztv.media/cinema_480_MxuKnOrVwjtfOhIdTUYiFgKwreWamb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="BAYRAM",BIZ MUSIC
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/04/01/14/04/u6WKMUQi3Xrzg5KrJYSlZcx6FlMOfKKA_normal.webp" group-title="BAYRAM", SHIFO TV
+https://st1.biztv.media/checksiztv_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/02/28/10/17/0Y6JFeH8IqkdgX6QK00ZnklLMcagXymx_normal.png" group-title="BAYRAM", MiMi TV 
+https://fl.biztv.media/MiMiTV_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/06/15/12/30/1OBliQqC2XEqiENeG40k5ZzDJAwbvrhJ_normal.webp" group-title="BAYRAM", BiznesTV 
+https://fl.biztv.media/BiznesTV_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/05/31/14/38/Ez6N3pVmTPqYe9fJmm5cpmagsORhVBBa_normal.webp" group-title="BAYRAM", Tabiat TV 
+https://fl.biztv.media/TabiatTV_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/05/15/18/11/tfbyNbVhA9YFZeQoBMy9GVh9zZNARjFr_normal.webp" group-title="BAYRAM", Солнечный ТВ
+https://fl.biztv.media/stv_480_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/01/18/17/14/CqI5C2FbnocQ8LY1VL3d3hEhnpWbtBUX" group-title="BAYRAM", Cinema iTV
+https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://cdn.biztv.media/2024/01/18/17/14/CqI5C2FbnocQ8LY1VL3d3hEhnpWbtBUX" group-title="BAYRAM", Music iTV
+https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://toplogos.ru/images/logo-mir-tv.png" group-title="BAYRAM",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+http://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1group-title="BAYRAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uM0mH4ugFvWO6cqyeceN_oTtXd-CsW33y1_dIAoPHQ&s",Удар ТВ
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="BAYRAM",2x2
+http://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/29.png" group-title="BAYRAM" user-agent="ExoPlayer2/2.37",Че! +
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/chetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="BAYRAM",RU TV
+https://edge02.odtv.az/o7/rutv/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://toplogos.ru/images/logo-europa-plus-tv.png",Europa Plus TV
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 tvg-id="MusicBoxGold.ru" tvg-logo="https://smotret.tv/images/music-box-gold.webp" group-title="BAYRAM",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/2048px-TNT_TV_logo.svg.png" group-title="BAYRAM",TNT PREMYERA
+http://88.85.172.243:7005/play/a00s
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://toplogos.ru/images/logo-tnt4.png" group-title="BAYRAM" user-agent="ExoPlayer2/2.37",ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TNT_logo.png/1200px-TNT_logo.png" group-title="BAYRAM",ТНТ-International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://thumb.canalplus.pro/http/unsafe/760x428/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/15277293/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080", Fantastica HD
+https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://toplogos.ru/images/" group-title="BAYRAM",КОШМАР TV
+https://hls.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-telekanal-muzhskoy.png"  group-title="BAYRAM",Мужской
+http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://toplogos.ru/images/logo-kinomiks.png" group-title="BAYRAM",Киномикc
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://toplogos.ru/images/logo-rodnoe-kino.png" group-title="BAYRAM",РОДНОЕ КИНО
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://toplogos.ru/images/logo-kinosemya.png" group-title="BAYRAM",Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8 
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://toplogos.ru/images/logo-kinohit.png" group-title="BAYRAM",Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://toplogos.ru/images/logo-kinohit.png" group-title="BAYRAM",Индийское Кино
+https://a5.pokaz.me/e5W4_madpDQ86GjGP77YAg/128/1720255264/index.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png",Мужское кино
+http://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://toplogos.ru/images/logo-kinoseriya.png" group-title="BAYRAM",Киносерия HD
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="BAYRAM",Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://toplogos.ru/images/logo-kinosvidanie.png" group-title="BAYRAM",Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://toplogos.ru/images/logo-kinouzhas.png" group-title="BAYRAM",Киноужас
+http://31.131.136.4:8001/play/e00b
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://toplogos.ru/images/logo-kinopremera.png" group-title="BAYRAM",Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://toplogos.ru/images/logo-nashe-novoe-kino.png" group-title="BAYRAM",Наше Новое Кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinosat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QSicon_Kand.svg/2048px-QSicon_Kand.svg.png" group-title="BAYRAM",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://i.imgur.com/Otfvlmf.png",Кинеко
+http://88.85.172.243:7004/play/a016
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://toplogos.ru/images/logo-24-tehno.png" group-title="BAYRAM",24 Техно
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-nst.png"  group-title="BAYRAM",НСТ
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 tvg-id="EchoTV.ru" tvg-logo="https://i.imgur.com/YWKJA1O.png" group-title="BAYRAM",Эхо TV
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://epgx.site/p/eurokino.png" group-title="BAYRAM",Еврокино
+http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="BAYRAM",Любимое Кино
+http://92.242.110.52:9835/udp/238.1.11.70:1234
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="BAYRAM",Русский иллюзион
+https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="BAYRAM",Иллюзион+
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://seeklogo.com/images/I/india-pronaca-logo-5DE597F805-seeklogo.com.png" group-title="BAYRAM", ЛИК TV
+https://v2.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://i.imgur.com/scDKOLS.png",Bollywood
+http://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://i.imgur.com/7fBRrTL.png",Hollywood HD
+http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGRbr0XM-Qh1F21m2YRnzV3XwRCCGEjNtQw&usqp=CAU",Cinema
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM"  tvg-logo="https://rskrf.ru/upload/iblock/82e/0sork37n99eqv1bqf6a7p4u1xpbsyngu.jpg",Смотрим TV
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png",Arab 24
+https://edge02.odtv.az/o7/arb24/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://wafaalobaidat.com/wp-content/uploads/2020/05/wao-feat-atv.png",Arab tv
+http://edge02.odtv.az/o1/arbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="BAYRAM",Az TV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",Ictimai Tv
+http://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="BAYRAM" user-agent="ExoPlayer2/2.37",Space TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/space/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg",CBC az
+http://edge02.odtv.az/o1/cbc/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku tv
+https://rtmp.baku.tv/live/bakutv_360p.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png",Medeniýet
+http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://static.tildacdn.com/tild6563-6630-4330-b335-626561376433/atameken.png" group-title="BAYRAM",Ata mekan
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/tracks-v3a1/mono.m3u8?hls_proxy_host=83f072cbb86c69ae259db3bd548c2164
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1fTr7HgUJOcDTh0iz9NQETb5e25uv23Q4g&usqp=CAU" group-title="BAYRAM", Майдан Tv
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v3a1/mono.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=199797;image" group-title="BAYRAM", Millet tv
+https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png",НТВ-Сериал
+http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://toplogos.ru/images/logo-ntv-hit.png",НТВ-Хит
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/2560px-TV_Tsentr_2013_Logo.svg.png",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="BAYRAM",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/PowerTV-logo.png" group-title="BAYRAM",Power
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png" group-title="BAYRAM",Power Turk akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png?v=4" group-title="BAYRAM",Power Turk taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png?v=4" group-title="BAYRAM",Power Turk slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEUIkWRyIK5FqwHFlgnGS0IDEAnPR5apdBg&usqp=CAU" group-title="BAYRAM",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_36.png?v=10" group-title="BAYRAM",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://toplogos.ru/images/logo-bridge-tv.png" group-title="BAYRAM",Bridge
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://bridgetv.ru/s/img/logo/monowidth/bridgetv_classic_black.svg" group-title="BAYRAM",BRIDGE CLASSIC
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://seeklogo.com/images/B/bridge-tv-russian-hit-logo-99E235B563-seeklogo.com.png" group-title="BAYRAM",BRIDGE TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://www.cableman.ru/sites/default/files/bridge_shlyager.png" group-title="BAYRAM",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://www.cableman.ru/sites/default/files/logo_bridge_rock_dlya_belogo_fona.png" group-title="BAYRAM",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://www.cableman.ru/sites/default/files/bridge_delux.png" group-title="BAYRAM",BRIDGE Delux
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://www.cableman.ru/sites/default/files/bridge_hits.png" group-title="BAYRAM",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="BAYRAM",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="BAYRAM",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="BAYRAM",Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="BAYRAM",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="BAYRAM",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="BAYRAM",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="BAYRAM",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="BAYRAM",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="BAYRAM",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" group-title="BAYRAM",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="BAYRAM",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="BAYRAM",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://toplogos.ru/images/logo-tv-xxi.png" group-title="BAYRAM",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
+http://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eo_circle_deep-purple_white_letter-c.svg/240px-Eo_circle_deep-purple_white_letter-c.svg.png",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1tvg-id="liova" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210318;image" group-title="BAYRAM",Лёва 
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://www.cableman.ru/sites/default/files/ducktv_0.png" group-title="BAYRAM",Duck TV
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://bridgetv.ru/s/img/logo/monowidth/2021/baby_time.svg?nocache=11",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://toplogos.ru/images/logo-amedia-hit.png" group-title="BAYRAM",Amedia Hit HD
+https://a5.pokaz.me/SdY-Rkt50e7mjtLt6MCQxA/183/1720254946/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="BAYRAM",Viju TV1000
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="BAYRAM",Viju TV1000 Action
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="BAYRAM",Viju TV1000 Русское
+https://a5.pokaz.me/9oke6fvABmnJ3thLM2frRg/139/1720255206/index.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="BAYRAM",Viju TV1000 Новелла
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="BAYRAM",Viju+comedy
+https://a5.pokaz.me/_9voHAzQen8OfzrQSgVXKw/142/1720255012/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="BAYRAM",Viju+megahit
+https://a5.pokaz.me/rVcw1_FCfIYEj2OaakRV3w/141/1720254833/index.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="BAYRAM",Viju+premiere
+https://a5.pokaz.me/g1GUCpDWtkD6iF4DNEiZbw/140/1720254713/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://epgx.site/p/vip-serial.png" group-title="BAYRAM",Viju+serial
+http://91.205.199.3:80/vipserialhd/index.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="BAYRAM",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="BAYRAM",Med Muzik
+https://med-musik.icdndhcp.com/live3/live3.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Viju_Explore_%28%D1%81_2023%29.png" group-title="BAYRAM",Viasat Explore
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="BAYRAM",Viasat History
+https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://ntvplus.tv/files/image/79/84/30/9rl.png" group-title="BAYRAM",Viasat Nature
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="BAYRAM",Viasat Sport
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="BAYRAM",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8?hls_proxy_host=65812518c6e3e872e73665c286f18438
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://toplogos.ru/images/logo-avtoplyus.png",Авто Плюс
+http://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://toplogos.ru/images/logo-soyuz.gif" group-title="BAYRAM",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="U.ru" tvg-logo="https://toplogos.ru/images/logo-u-tv.png" group-title="BAYRAM",Ю
+https://edge02.odtv.az/o3/utv/playlist.m3u8
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://toplogos.ru/images/logo-360.jpg" group-title="BAYRAM",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://i.imgur.com/zMNJfoV.png" group-title="BAYRAM",Городской Телеканал-Ярославль
+https://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="BAYRAM",HD Life
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.png" group-title="BAYRAM",Матч арена
+http://88.85.172.243:7002/play/a02q
+#EXTINF:-1 tvg-id="2" tvg-logo="https://toplogos.ru/images/logo-match-strana.png" group-title="BAYRAM", Матч страна
+http://88.85.172.243:7002/play/a02r
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/match_planeta_obychnyy.png" group-title="BAYRAM",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_1_obychnyy.png" group-title="BAYRAM",Матч Футбол 1
+http://88.85.172.243:7002/play/a02j
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_2_obychnyy.png" group-title="BAYRAM",Матч Футбол 2
+http://88.85.172.243:7002/play/a02k
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_3_obychnyy.png" group-title="BAYRAM",Матч Футбол 3
+http://88.85.172.243:7002/play/a02l
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png",Eurosport 2
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Real_logo.svg/1200px-The_Real_logo.svg.png",Real tv
+https://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/3/35/BOLT_logo_%282016%29.png",BOLT TV
+https://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
+http://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Romance_TV_Logo_09.2013.svg/1200px-Romance_TV_Logo_09.2013.svg.png",Romana tv
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstIHX-1rY9Iu05QC5N3GRDMOfBNXau6EYiQhl8RKG3Q&s",Top secret
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png",Animal planet
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://skycombotv.com.br/wp-content/themes/sky-7.1-child/images/canais/dih.svg",Discovery
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM" tvg-logo="https://adultstvlive.com/wp-content/uploads/2022/08/fashiontv.png",Fashion TV HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://epgx.site/p/brazzers.png" group-title="XXX" user-agent="ExoPlayer2/2.37",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="dorcel" tvg-logo="https://epgx.site/p/dorcel.png" group-title="XXX",Dorcel TV 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="extasy4k" tvg-logo="https://epgx.site/p/extasytv.png" group-title="XXX",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunOP2kBtlqAqUWVENvEZNIYV_kBhZJy7xZQBUQd2ZQg&s" group-title="XXX", Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_desire.png" group-title="XXX", Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/88/57/62/-channel!5ww.png" group-title="XXX", Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gonet.tv/api/loga/v2/eroxxxhd.png?v=2" group-title="XXX", Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://guljaj.com/kanaly/217.jpg" group-title="XXX", o la la
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1 tvg-id="3258" tvg-logo="http://epg.one/img2/3258.png" group-title="XXX",Erotic
+https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
+#EXTINF:-1 tvg-id="hustler-hd" tvg-logo="https://epgx.site/p/hustler-hd.png" group-title="XXX",Hustler
+http://31.131.136.4:8000/play/a00g
+#EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://epgx.site/p/passionxxx.png" group-title="XXX",PassionXXX
+http://31.131.136.4:8000/play/a00k
+#EXTINF:-1 tvg-id="3233" tvg-logo="http://epg.one/img2/3233.png" group-title="XXX",Vivid TV Europe
+http://31.131.136.4:8000/play/a00l
+#EXTINF:-1 tvg-id="russkaya-noch" tvg-logo="https://epgx.site/p/russkaya-noch.png" group-title="XXX",Русская ночь
+http://188.113.190.15/318/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://adultstvlive.com/wp-content/uploads/2022/03/penthousetv.png" group-title="XXX", PLAYBOY TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://app.mycamtv.com/wp-content/uploads/2022/01/headerlogo_mycamtv.com_.png" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
