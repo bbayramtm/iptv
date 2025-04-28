@@ -1,0 +1,569 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930001.png"  group-title="BAYRAM",Altyn Asyr
+http://119.235.117.201:8010/AltynAsyr/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930002.png"  group-title="BAYRAM",Yaslyk
+http://119.235.117.201:8010/Yashlyk/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930003.png"  group-title="BAYRAM",Miras
+http://119.235.117.201:8010/Miras/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930004.png"  group-title="BAYRAM", Turkmenistan 
+http://119.235.117.201:8010/Turkmenistan/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930005.png"  group-title="BAYRAM",Turkmen Owaz
+http://119.235.117.201:8010/TurkmenOwazy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930006.png"  group-title="BAYRAM",Asgabat
+http://119.235.117.201:8010/Asgabat/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930007.png"  group-title="BAYRAM",Turkmen Sport 
+http://119.235.117.201:8010/TurkmenistanSport/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930008.png"  group-title="BAYRAM",Arkadag
+http://119.235.117.201:8010/Arkadag/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3651.png"  group-title="BAYRAM",МИР
+http://95.85.121.213:8010/Mir/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17770.png"  group-title="BAYRAM",Viju TV1000
+http://95.85.121.213:8010/tv1000/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17790.png"  group-title="BAYRAM",Viju TV1000 Action 
+http://95.85.121.213:8010/tv1000-action/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17810.png"  group-title="BAYRAM",Viju TV1000 Русское
+http://95.85.121.213:8010/tv1000-rus/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17805.png"  group-title="BAYRAM",Viju+ Premiere
+http://95.85.121.213:8010/Vijupremiere/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17800.png"  group-title="BAYRAM",Viju+ Megahit
+http://95.85.121.213:8010/Vijumegahit/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17795.png"  group-title="BAYRAM",Viju+ Comedy 
+http://95.85.121.213:8010/Vijucomedy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17806.png"  group-title="BAYRAM",Viju+ Serial
+http://95.85.121.213:8010/Vijuserial/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17653.png"  group-title="BAYRAM", Timeless Dizi Channel 
+http://95.85.121.213:8010/TimelessDiziChannel/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/19630.png"  group-title="BAYRAM",Индия
+http://95.85.121.213:8010/ZeeTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10495.png"  group-title="BAYRAM", Bollywood 
+http://95.85.121.213:8010/Bollywood/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2650.png"  group-title="BAYRAM", Индийское Кино
+http://95.85.121.213:8010/IndiyskoyeKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3010.png"  group-title="BAYRAM",Кинопремьера 
+http://95.85.121.213:8010/Kinopremiere/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12820.png"  group-title="BAYRAM",Киносемья
+http://95.85.121.213:8010/Kinosemya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2965.png"  group-title="BAYRAM",Киноужас
+http://95.85.121.213:8010/Kinoujas/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3722.png"  group-title="BAYRAM", Мужское кино
+http://95.85.121.213:8010/MujskoyeKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2990.png"  group-title="BAYRAM",Киномикс
+http://95.85.121.213:8010/Kinomix/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2970.png"  group-title="BAYRAM",Кинохит
+http://95.85.121.213:8010/Kinohit/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3070.png"  group-title="BAYRAM",Кинокомедия
+http://95.85.121.213:8010/Kinocomedy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2880.png"  group-title="BAYRAM", Киносвидание 
+http://95.85.121.213:8010/Kinosvidaniye/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3710.png"  group-title="BAYRAM",Киносерия
+http://95.85.121.213:8010/Kinoseriya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3810.png"  group-title="BAYRAM",Родное кино
+http://95.85.121.213:8010/RodnoyeKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3830.png"  group-title="BAYRAM",Наше новое кино 
+http://95.85.121.213:8010/NasheNovoeKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2997.png"  group-title="BAYRAM",Кино UHD
+http://95.85.121.213:8010/KinoUHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2996.png"  group-title="BAYRAM",Кино ТВ
+http://95.85.121.213:8010/KinoTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1294.png"  group-title="BAYRAM", Блокбастер 
+http://95.85.121.213:8010/Blockbuster/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/14935.png"  group-title="BAYRAM", Hollywood 
+http://95.85.121.213:8010/HollywoodHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2836.png"  group-title="BAYRAM",Камеди
+http://95.85.121.213:8010/FUNTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2935.png"  group-title="BAYRAM",Премиальное
+http://95.85.121.213:8010/PremialnoyeHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10796.png"  group-title="BAYRAM",Cineman
+http://95.85.121.213:8010/CineMan/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10827.png"  group-title="BAYRAM", Cartoons 90
+http://95.85.121.213:8010/Cartoons90/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10828.png"  group-title="BAYRAM", Cartoons Short
+http://95.85.121.213:8010/CartoonsShort/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10826.png"  group-title="BAYRAM", Cartoons Big
+http://95.85.121.213:8010/CartoonsBig/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10824.png"  group-title="BAYRAM",Cineman Premium 
+http://95.85.121.213:8010/CineManPremium/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10821.png"  group-title="BAYRAM",Cineman top
+http://95.85.121.213:8010/CineManTop/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10799.png"  group-title="BAYRAM",Cineman Катастрофы 
+http://95.85.121.213:8010/CineManKatastrofa/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10797.png"  group-title="BAYRAM",Cineman Action 
+http://95.85.121.213:8010/CineManAction/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10809.png"  group-title="BAYRAM",Cineman Thriller 
+http://95.85.121.213:8010/CineManThriller/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10801.png"  group-title="BAYRAM",Cineman Marvel 
+http://95.85.121.213:8010/CineManMarvel/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10822.png"  group-title="BAYRAM", Cineman Ужасы 
+http://95.85.121.213:8010/CineManUjas/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10798.png"  group-title="BAYRAM", Cineman Комедия 
+http://95.85.121.213:8010/CineManComedy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10805.png"  group-title="BAYRAM",Cineman Рукино
+http://95.85.121.213:8010/CineManRuKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10825.png"  group-title="BAYRAM",Cineman Miniseries 
+http://95.85.121.213:8010/CineManMiniSeries/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2900.png"  group-title="BAYRAM", Шокирующиее
+http://95.85.121.213:8010/Shokirueshie/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2910.png"  group-title="BAYRAM", Комедийное
+http://95.85.121.213:8010/Komediynoe/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3811.png"  group-title="BAYRAM", Романтичное
+http://95.85.121.213:8010/Romantichnoe/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5692.png"  group-title="BAYRAM",Страшное 
+http://95.85.121.213:8010/Strashnoe/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1955.png"  group-title="BAYRAM",Дорама HD
+http://95.85.121.213:8010/DoramaHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1942.png"  group-title="BAYRAM",Дом кино Премиум
+http://95.85.121.213:8010/DomKinoPremium/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1940.png"  group-title="BAYRAM",Дом кино
+http://95.85.121.213:8010/DomKino/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2948.png"  group-title="BAYRAM",Киноман
+http://95.85.121.213:8010/Kinoman/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10102.png"  group-title="BAYRAM",Amedia Hit
+http://95.85.121.213:8010/AmediaHit/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10105.png"  group-title="BAYRAM",Amedia Premium 
+http://95.85.121.213:8010/AmediaPremium/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10100.png"  group-title="BAYRAM",Amedia 1
+http://95.85.121.213:8010/Amedia1/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10095.png"  group-title="BAYRAM",Amedia 2
+http://95.85.121.213:8010/Amedia2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17235.png"  group-title="BAYRAM", .Red
+http://95.85.121.213:8010/.Red/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17260.png"  group-title="BAYRAM", .Black 
+http://95.85.121.213:8010/.Black/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10150.png"  group-title="BAYRAM", Sci-Fi 
+http://95.85.121.213:8010/.Sci-Fi/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4610.png"  group-title="BAYRAM", Синема 
+http://95.85.121.213:8010/Cinema/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3970.png"  group-title="BAYRAM",НСТВ
+http://95.85.121.213:8010/NSTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12075.png"  group-title="BAYRAM",FX
+http://95.85.121.213:8010/FOX/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12095.png"  group-title="BAYRAM",FX Life 
+http://95.85.121.213:8010/FOXLife/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3065.png"  group-title="BAYRAM", Комедия 
+http://95.85.121.213:8010/Comediya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4105.png"  group-title="BAYRAM",НТВ Сериал 
+http://95.85.121.213:8010/NTVSerial/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4108.png"  group-title="BAYRAM",НТВ-ХИТ
+http://95.85.121.213:8010/NTV-hit/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5340.png"  group-title="BAYRAM", Русский Роман 
+http://95.85.121.213:8010/RussianRoman/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5325.png"  group-title="BAYRAM", Русский Детектив 
+http://95.85.121.213:8010/RussianDetective/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5320.png"  group-title="BAYRAM", Русский Бестселлер 
+http://95.85.121.213:8010/RussianBestseller/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930021.png"  group-title="BAYRAM",MY5
+http://119.235.117.205:8010/MY5/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930022.png"  group-title="BAYRAM",ZOR TV
+http://119.235.117.205:8010/Zor/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="50"  tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" group-title="BAYRAM",BIZ TV
+https://fl.biztv.media/biz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="51"  tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="BAYRAM",BIZ CINEMA
+https://fl.biztv.media/cinema_480_MxuKnOrVwjtfOhIdTUYiFgKwreWamb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="BAYRAM",BIZ MUSIC
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930044.png"  group-title="BAYRAM", Uzbekiston
+http://119.235.117.205:8010/Uzbekiston/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930024.png"  group-title="BAYRAM",Yoshlar
+http://119.235.117.205:8010/Yoshlar/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930026.png"  group-title="BAYRAM",Sport uz
+http://119.235.117.205:8010/SportUz/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930027.png"  group-title="BAYRAM",Madaniyat va marifat
+http://119.235.117.205:8010/MadaniyatvaMarifat/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930028.png"  group-title="BAYRAM",Dunyo boylab
+http://119.235.117.205:8010/DunyoBoylab/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930029.png"  group-title="BAYRAM",Bolajon
+http://119.235.117.205:8010/Bolajon/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930030.png"  group-title="BAYRAM",Navo
+http://119.235.117.205:8010/Navo/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930031.png"  group-title="BAYRAM",Mahalla
+http://119.235.117.205:8010/Mahalla/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930032.png"  group-title="BAYRAM",Kinoteatr
+http://119.235.117.205:8010/Kinoteatr/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930033.png"  group-title="BAYRAM",Ozbekiston 24
+http://119.235.117.205:8010/Ozbekiston24/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/14430.png"  group-title="BAYRAM",LUX TV
+http://119.235.117.205:8010/BIZTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17716.png"  group-title="BAYRAM",TRT 1
+http://119.235.117.205:8010/TRT1/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/993035.png"  group-title="BAYRAM",TRT BELGESEL
+http://119.235.117.205:8010/TRTBELGESEL/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/993034.png"  group-title="BAYRAM",TRT COCUK
+http://119.235.117.205:8010/TRTCOCUK/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17724.png"  group-title="BAYRAM",TRT HABER
+http://119.235.117.205:8010/TRTHABER/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17722.png"  group-title="BAYRAM",TRT AVAZ
+http://119.235.117.205:8010/TRTAVAZ/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10143.png"  group-title="BAYRAM",ATV
+http://119.235.117.205:8010/ATV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17275.png"  group-title="BAYRAM",STAR TV
+http://119.235.117.205:8010/STARTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/7011.png"  group-title="BAYRAM",SHOW 
+http://119.235.117.205:8010/Show/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/7011.png"  group-title="BAYRAM",SHOW MAX
+http://119.235.117.205:8010/SHOWMAX/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12076.png"  group-title="BAYRAM",FOX TV
+http://119.235.117.205:8010/FOXTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/13920.png"  group-title="BAYRAM",KANAL D
+http://119.235.117.205:8010/KANALD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11336.png"  group-title="BAYRAM",DMAX
+http://119.235.117.205:8010/DMAX/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15350.png"  group-title="BAYRAM",NTV
+http://119.235.117.205:8010/NTVTurk/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17677.png"  group-title="BAYRAM",TLC TURK
+http://119.235.117.205:8010/TLCTURK/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17764.png"  group-title="BAYRAM",TV8
+http://119.235.117.205:8010/TV8/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17852.png"  group-title="BAYRAM",TV8.5
+http://119.235.117.205:8010/TV85/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/13915.png"  group-title="BAYRAM",KANAL 7
+http://119.235.117.205:8010/KANAL7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930013.png"  group-title="BAYRAM",LALEGUL TV
+http://119.235.117.205:8010/LALEGULTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930014.png"  group-title="BAYRAM",minikaGO
+http://119.235.117.205:8010/minikaGO/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930015.png"  group-title="BAYRAM",minikaCOCUK
+http://119.235.117.205:8010/minikaCOCUK/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4710.png"  group-title="BAYRAM", Первый Канал (+4)
+http://95.85.121.213:8010/Perviy4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4710.png"  group-title="BAYRAM", Первый Канал (+2)
+http://95.85.121.213:8010/Perviy2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4710.png"  group-title="BAYRAM", Первый Канал 
+http://95.85.121.213:8010/Perviy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5150.png"  group-title="BAYRAM", Россия (+4)
+http://95.85.121.213:8010/Rossiya4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5150.png"  group-title="BAYRAM", Россия (+2)
+http://95.85.121.213:8010/Rossiya2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5150.png"  group-title="BAYRAM", Россия 
+http://95.85.121.213:8010/Rossiya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5190.png"  group-title="BAYRAM", Россия 24
+http://95.85.121.213:8010/Rossiya24/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3645.png"  group-title="BAYRAM",МИР 24
+http://95.85.121.213:8010/Mir24/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5070.png"  group-title="BAYRAM",РБК
+http://95.85.121.213:8010/RBK/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11710.png"  group-title="BAYRAM", Euronews 
+http://95.85.121.213:8010/Euronews/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1230.png"  group-title="BAYRAM", Беларусь 24
+http://119.235.117.205:8010/BELARUS24HD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10427.png"  group-title="BAYRAM",BBC News 
+http://119.235.117.205:8010/BBCNews/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2620.png"  group-title="BAYRAM",Известия
+http://95.85.121.213:8010/Izvestiya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4250.png"  group-title="BAYRAM",НТВ (+7)
+http://95.85.121.213:8010/NTV7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4254.png"  group-title="BAYRAM",НТВ (+4)
+http://95.85.121.213:8010/NTV4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4252.png"  group-title="BAYRAM",НТВ (+2)
+http://95.85.121.213:8010/NTV2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4252.png"  group-title="BAYRAM",НТВ
+http://95.85.121.213:8010/NTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6130.png"  group-title="BAYRAM",ТНТ (+7)
+http://95.85.121.213:8010/TNT-7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6130.png"  group-title="BAYRAM",ТНТ (+4)
+http://95.85.121.213:8010/TNTplus4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6130.png"  group-title="BAYRAM",ТНТ (+2)
+http://95.85.121.213:8010/TNTplus2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6130.png"  group-title="BAYRAM",ТНТ
+http://95.85.121.213:8010/TNT/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3060.png"  group-title="BAYRAM",ТНТ4
+http://95.85.121.213:8010/TNT4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5710.png"  group-title="BAYRAM",СТС (+7)
+http://95.85.121.213:8010/STS7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5710.png"  group-title="BAYRAM",СТС (+4)
+http://95.85.121.213:8010/STS4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5710.png"  group-title="BAYRAM",СТС (+2)
+http://95.85.121.213:8010/STS2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5710.png"  group-title="BAYRAM",СТС
+http://95.85.121.213:8010/STS/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1980.png"  group-title="BAYRAM",Че (+4)
+http://95.85.121.213:8010/Che4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1980.png"  group-title="BAYRAM",Че
+http://95.85.121.213:8010/Che/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5090.png"  group-title="BAYRAM",РЕН (+7)
+http://95.85.121.213:8010/REN7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5090.png"  group-title="BAYRAM",РЕН (+4)
+http://95.85.121.213:8010/REN4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5090.png"  group-title="BAYRAM",РЕН (+2)
+http://95.85.121.213:8010/REN2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5090.png"  group-title="BAYRAM",РЕН
+http://95.85.121.213:8010/REN/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5830.png"  group-title="BAYRAM",ТВ-3 (+7)
+http://95.85.121.213:8010/TV3-7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5830.png"  group-title="BAYRAM",ТВ-3 (+4)
+http://95.85.121.213:8010/TV-3plus4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5830.png"  group-title="BAYRAM",ТВ-3
+http://95.85.121.213:8010/TV-3/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1920.png"  group-title="BAYRAM", Домашний (+7)
+http://95.85.121.213:8010/Home7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1920.png"  group-title="BAYRAM", Домашний (+4)
+http://95.85.121.213:8010/Domashniy4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1920.png"  group-title="BAYRAM", Домашний (+2)
+http://95.85.121.213:8010/Domashniy2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1920.png"  group-title="BAYRAM", Домашний 
+http://95.85.121.213:8010/Domashniy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4960.png"  group-title="BAYRAM", Пятница (+7)
+http://95.85.121.213:8010/Friday7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4960.png"  group-title="BAYRAM", Пятница (+4)
+http://95.85.121.213:8010/Friday4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4960.png"  group-title="BAYRAM", Пятница 
+http://95.85.121.213:8010/Friday/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4970.png"  group-title="BAYRAM", 5 Канал 
+http://95.85.121.213:8010/5kanal/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2450.png"  group-title="BAYRAM", Звезда (+7)
+http://95.85.121.213:8010/Zvezda7/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2450.png"  group-title="BAYRAM", Звезда (+4)
+http://95.85.121.213:8010/Zvezda4/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2450.png"  group-title="BAYRAM", Звезда (+2)
+http://95.85.121.213:8010/Zvezda2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2450.png"  group-title="BAYRAM", Звезда 
+http://95.85.121.213:8010/Zvezda/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4808.png"  group-title="BAYRAM",Победа
+http://95.85.121.213:8010/Pobeda/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/7200.png"  group-title="BAYRAM",Ю-ТВ
+http://95.85.121.213:8010/Yu-TV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3682.png"  group-title="BAYRAM", Золотая коллекция Мосфильм 
+http://95.85.121.213:8010/ZolotayaColletiya/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5476.png"  group-title="BAYRAM", Солнце 
+http://95.85.121.213:8010/Disney/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15330.png"  group-title="BAYRAM", Nickelodeon 
+http://95.85.121.213:8010/Nickelodeon/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15340.png"  group-title="BAYRAM",Nick Jr
+http://95.85.121.213:8010/NickJR/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2830.png"  group-title="BAYRAM", Карусель 
+http://119.235.117.205:8010/Karusel/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17650.png"  group-title="BAYRAM",TiJi
+http://119.235.117.205:8010/TiJi/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10122.png"  group-title="BAYRAM",Ani
+http://119.235.117.205:8010/Ani/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12450.png"  group-title="BAYRAM",Gulli Girl 
+http://119.235.117.205:8010/GulliGirl/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4405.png"  group-title="BAYRAM",O!
+http://119.235.117.205:8010/O/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3735.png"  group-title="BAYRAM",Мульт
+http://119.235.117.205:8010/MultiHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3235.png"  group-title="BAYRAM",Лёва
+http://119.235.117.205:8010/Leva/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5709.png"  group-title="BAYRAM",СТС Kid's 
+http://119.235.117.205:8010/STSKids/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10830.png"  group-title="BAYRAM", Cartoon Network
+http://119.235.117.205:8010/CartoonNetwork/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1830.png"  group-title="BAYRAM", Детский Мир
+http://119.235.117.205:8010/DetskiyMir/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3450.png"  group-title="BAYRAM",Супер Герой 
+http://119.235.117.205:8010/SuperHero/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10408.png"  group-title="BAYRAM",BABY TIME
+http://119.235.117.205:8010/BabyTime/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1405.png"  group-title="BAYRAM",В гостях у сказки 
+http://119.235.117.205:8010/vGostyahUSkazki/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11260.png"  group-title="BAYRAM",Discover Channel 
+http://119.235.117.205:8010/DiscoveryChannel/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12065.png"  group-title="BAYRAM",Food Network 
+http://119.235.117.205:8010/DiscoveryScience/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15210.png"  group-title="BAYRAM", National geographic 
+http://119.235.117.205:8010/NationalGeographic/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15250.png"  group-title="BAYRAM",Nat Geo Wild 
+http://119.235.117.205:8010/NatGeoWild/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10110.png"  group-title="BAYRAM",Animal planet 
+http://119.235.117.205:8010/AnimalPlanet/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17708.png"  group-title="BAYRAM", Travel 
+http://119.235.117.205:8010/Travel/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/13615.png"  group-title="BAYRAM",ID
+http://119.235.117.205:8010/ID/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17675.png"  group-title="BAYRAM",TCL
+http://119.235.117.205:8010/TLC/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3690.png"  group-title="BAYRAM",Моя Планета 
+http://119.235.117.205:8010/MoyaPlaneta/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1838.png"  group-title="BAYRAM",Дикая охота 
+http://119.235.117.205:8010/DikayaOhata/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1839.png"  group-title="BAYRAM", Дикая рыбалка 
+http://119.235.117.205:8010/DikayaRybalka/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12830.png"  group-title="BAYRAM",HDL
+http://119.235.117.205:8010/HDL/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/230.png"  group-title="BAYRAM",T24
+http://119.235.117.205:8010/Tehno/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3850.png"  group-title="BAYRAM",Наука
+http://119.235.117.205:8010/Nauka/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11230.png"  group-title="BAYRAM",Davinci
+http://119.235.117.205:8010/DaVinci/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18470.png"  group-title="BAYRAM",Viju Explore 
+http://119.235.117.205:8010/ViasatExplore/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18515.png"  group-title="BAYRAM",Viju+ Planet 
+http://119.235.117.205:8010/ViasatNatureHistoryHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18510.png"  group-title="BAYRAM",Viju Nature 
+http://119.235.117.205:8010/ViasatNature/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18490.png"  group-title="BAYRAM",Viju History 
+http://119.235.117.205:8010/ViasatHistory/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17620.png"  group-title="BAYRAM",TERRA
+http://119.235.117.205:8010/DTX/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12410.png"  group-title="BAYRAM", Galaxy 
+http://119.235.117.205:8010/Teleputeshestviye/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1625.png"  group-title="BAYRAM", Глазами туриста HD
+http://119.235.117.205:8010/GlazamiTurista/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/12855.png"  group-title="BAYRAM", History 
+http://119.235.117.205:8010/PerviyKosmicheskiy/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3150.png"  group-title="BAYRAM", Кухня ТВ
+http://119.235.117.205:8010/Kichen/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1880.png"  group-title="BAYRAM", Доктор 
+http://119.235.117.205:8010/Doctor/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3460.png"  group-title="BAYRAM", Мама 
+http://119.235.117.205:8010/Mama/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3480.png"  group-title="BAYRAM",Матч ТВ
+http://95.85.121.213:8010/MatchTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4120.png"  group-title="BAYRAM",Матч! футбол 1
+http://95.85.121.213:8010/MatchFoot1/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4125.png"  group-title="BAYRAM",Матч! футбол 2
+http://95.85.121.213:8010/MatchFoot2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4140.png"  group-title="BAYRAM",Матч! футбол 3
+http://95.85.121.213:8010/MatchFoot3/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3855.png"  group-title="BAYRAM",Матч премьер 
+http://119.235.117.205:8010/MatchPremiere/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5435.png"  group-title="BAYRAM",Сетанта Спорт 1
+http://95.85.121.213:8010/Setanta1/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5436.png"  group-title="BAYRAM", Стента Спорт 2
+http://95.85.121.213:8010/Setanta2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930043.png"  group-title="BAYRAM", Football 
+http://119.235.117.205:8010/FutbolTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17884.png"  group-title="BAYRAM",Futbol TV
+http://95.85.121.213:8010/FutbolTVUZ/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3082.png"  group-title="BAYRAM", Конный Мир
+http://119.235.117.205:8010/KonnyyMir/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17882.png"  group-title="BAYRAM", Dubai Racing HD 1
+http://95.85.121.213:8010/DubaiRasingHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17883.png"  group-title="BAYRAM", Dubai Racing HD 2
+http://95.85.121.213:8010/DubaiRasingHD2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11750.png"  group-title="BAYRAM", Eurosport 1
+http://119.235.117.205:8010/Eurosport1/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11770.png"  group-title="BAYRAM", Eurosport 2
+http://119.235.117.205:8010/Eurosport2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/155.png"  group-title="BAYRAM",TRT Sport 
+http://119.235.117.205:8010/TaynyGalaktiki/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15290.png"  group-title="BAYRAM",NBA TV
+http://119.235.117.205:8010/NBA/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6450.png"  group-title="BAYRAM", Футбол 
+http://119.235.117.205:8010/Futbol/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1310.png"  group-title="BAYRAM",Матч Боец 
+http://119.235.117.205:8010/MatchBoets/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18018.png"  group-title="BAYRAM",UDAR
+http://119.235.117.205:8010/UFC/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/14700.png"  group-title="BAYRAM",MMA-TV.COM
+http://119.235.117.205:8010/MMA/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1317.png"  group-title="BAYRAM",Бокс ТВ
+http://119.235.117.205:8010/BoxTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5530.png"  group-title="BAYRAM",Матч Арена
+http://119.235.117.205:8010/MatchArena/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5590.png"  group-title="BAYRAM",Матч Страна 
+http://119.235.117.205:8010/MatchStrana/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5550.png"  group-title="BAYRAM",Матч Игра 
+http://119.235.117.205:8010/MatchIgra/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/5628.png"  group-title="BAYRAM",Старт ТВ
+http://119.235.117.205:8010/StartTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3175.png"  group-title="BAYRAM",КХЛ Prime
+http://95.85.121.213:8010/KHLPrimeHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18530.png"  group-title="BAYRAM",Viju+ Sport 
+http://95.85.121.213:8010/ViasatSport/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930009.png"  group-title="BAYRAM",Варзиш ТВ
+http://119.235.117.205:8010/Varzish/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930010.png"  group-title="BAYRAM",SporSmart
+http://119.235.117.205:8010/SPORTSMART/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930011.png"  group-title="BAYRAM",SporSmart 2
+http://119.235.117.205:8010/SPORTSMART2/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930012.png"  group-title="BAYRAM",Persiana Sports 
+http://119.235.117.205:8010/PersianaSports/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1030.png"  group-title="BAYRAM",Авто Плюс 
+http://119.235.117.205:8010/AutoPlus/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/15111.png"  group-title="BAYRAM",RED MUSIC
+http://119.235.117.205:8010/AlemMusic/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930019.png"  group-title="BAYRAM",RED MUSIC RETRO 
+http://119.235.117.205:8010/Power/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930016.png"  group-title="BAYRAM",DREAM TURK
+http://119.235.117.205:8010/DREAMTURK/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10510.png"  group-title="BAYRAM", BRIDGE TV
+http://119.235.117.205:8010/BRIDGETV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10513.png"  group-title="BAYRAM", BRIDGE HITS 
+http://119.235.117.205:8010/BRIDGEHITS/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10513.png"  group-title="BAYRAM", BRIDGE Rock
+http://119.235.117.205:8010/BRIDGEFresh/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10512.png"  group-title="BAYRAM", BRIDGE CLASSIC
+http://119.235.117.205:8010/BRIDGECLASSIC/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17010.png"  group-title="BAYRAM", BRIDGE Russkiy Hit
+http://119.235.117.205:8010/BRIDGERusskiyHit/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10515.png"  group-title="BAYRAM", BRIDGE SHLYAGER
+http://119.235.117.205:8010/BRIDGESHLYAGER/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10511.png"  group-title="BAYRAM", BRIDGE DELUXE 
+http://119.235.117.205:8010/BRIDGEDeluxe/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10510.png"  group-title="BAYRAM", BRIDGE ЕТНО
+http://119.235.117.205:8010/9Volna/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930018.png"  group-title="BAYRAM",24MB
+http://119.235.117.205:8010/24B/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/18591.png"  group-title="BAYRAM",VIVA
+http://119.235.117.205:8010/VIVA/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17707.png"  group-title="BAYRAM",TRACE
+http://119.235.117.205:8010/TRACE/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/4731.png"  group-title="BAYRAM", Первый музыкальный 
+http://119.235.117.205:8010/1mus.com/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10190.png"  group-title="BAYRAM",ТНТ Music
+http://119.235.117.205:8010/TNTMusic/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/3770.png"  group-title="BAYRAM",МУЗ ТВ
+http://119.235.117.205:8010/MuzTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/11730.png"  group-title="BAYRAM",Европа плюс 
+http://119.235.117.205:8010/EuropaPlus/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/37.png" group-title="BAYRAM",Жара TV
+https://m.horjuntv.com.tm/chanel2/ch096_720/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/40.png" group-title="BAYRAM",O2 TV
+https://horjuntv.com.tm/chanel2/ch086_720/index.m3u8
+#EXTINF:-1 tvg-id="13"  tvg-logo="https://m.horjuntv.com.tm/images/onlinecanal/22.png" group-title="BAYRAM",Music box RU
+https://m.horjuntv.com.tm/chanel/ch046_720/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17680.png"  group-title="BAYRAM",Восток ТВ
+http://119.235.117.205:8010/Vostok/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930025.png"  group-title="BAYRAM",KRAL POP
+http://119.235.117.205:8010/Kralpoptv/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10170.png"  group-title="BAYRAM",AZTV HD
+http://119.235.117.205:8010/AzTVHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10170.png"  group-title="BAYRAM",ATV Azerbaijan HD
+http://119.235.117.205:8010/ATVAzerbaycanHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/993020.png"  group-title="BAYRAM",Space HD
+http://119.235.117.205:8010/SpaceHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930060.png"  group-title="BAYRAM",Dunya TV
+http://119.235.117.205:8010/DunyaTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/13612.png"  group-title="BAYRAM",Idman TV HD
+http://119.235.117.205:8010/IdmanTVHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/13690.png"  group-title="BAYRAM", Intimai TV
+http://119.235.117.205:8010/IctimaiTVHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10836.png"  group-title="BAYRAM",CBC sport HD
+http://119.235.117.205:8010/CBCSportHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10835.png"  group-title="BAYRAM",CBC Azarbaycan
+http://119.235.117.205:8010/CBCAzerbaycanHD/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930064.png"  group-title="BAYRAM",MTV Azarbaycan
+http://119.235.117.205:8010/MTVAzerbaijan/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/310.png"  group-title="BAYRAM",365 дней ТВ
+http://119.235.117.205:8010/365/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/2840.png"  group-title="BAYRAM",КБН
+http://119.235.117.205:8010/KVN/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930037.png"  group-title="BAYRAM", Armenian Public TV
+http://119.235.117.205:8010/ArmenianPublicTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930038.png"  group-title="BAYRAM",Shogharat TV
+http://119.235.117.205:8010/ShoghakatTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/1080.png"  group-title="BAYRAM", Armenia TV
+http://119.235.117.205:8010/ArmeniaTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930039.png"  group-title="BAYRAM",Shant TV
+http://119.235.117.205:8010/ShantTV/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10142.png"  group-title="BAYRAM",ATV
+http://119.235.117.205:8010/Atv/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930041.png"  group-title="BAYRAM",Kentron
+http://119.235.117.205:8010/Kentron/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930042.png"  group-title="BAYRAM",FASTSPORTS
+http://119.235.117.205:8010/YerkirMedia/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930063.png"  group-title="BAYRAM",IRAN INTERNATIONAL 
+http://119.235.117.205:8010/IranINT/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930061.png"  group-title="BAYRAM",Tojikiston
+http://119.235.117.205:8010/Tojikiston/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/9930062.png"  group-title="BAYRAM",Tolo
+http://119.235.117.205:8010/Tolo/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/17119.png"  group-title="BAYRAM",Silk Way
+http://119.235.117.205:8010/Kazakh/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/6711.png"  group-title="BAYRAM",Khaber 24
+http://119.235.117.205:8010/Khabar24/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://iptv.tmalem.tv/resources/portal/images/logo84/10070.png"  group-title="BAYRAM",Al Jazeera
+http://119.235.117.205:8010/AIJazeera/mono.m3u8?filter=tracks:v1a1&token=token%3D1a19765399d8466e9e011af092fbb589%26token1%3Dcbe75bc90551eaa11160249cd6b571da%26token2%3D75edba5339f7fcfaa4b5f825e7eb1f5c%26domain%3Dtmalem%26key%3DKey-1%26media_id%3D215
+#EXTINF:-1 tvg-id="1" tvg-logo="http://"  group-title="BAYRAM",WEB
+http://192.168.1.147:8080/video
