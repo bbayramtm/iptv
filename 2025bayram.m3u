@@ -1,0 +1,485 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1"  group-title="BAYRAM",Ashgabat
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-id="2"  group-title="BAYRAM",Arkadag TV
+https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
+#EXTINF:-1 tvg-id="3"  group-title="BAYRAM",Altyn asyr
+https://horjuntv.com.tm/chanel2/ch001_720/index.m3u8
+#EXTINF:-1 tvg-id="4"  group-title="BAYRAM",Turkmen owaz
+http://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-id="5"  group-title="BAYRAM",Turkmenistan
+https://horjuntv.com.tm/chanel2/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="6"  group-title="BAYRAM",Miras 
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-id="7"  group-title="BAYRAM",Yaslyk TV
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-id="8"  group-title="BAYRAM",Turkmen sport
+https://horjuntv.com.tm/chanel2/ch007_720/index.m3u8
+#EXTINF:-1 tvg-id="9"  group-title="BAYRAM",ATV
+https://horjuntv.com.tm/chanel/ch094_720/index.m3u8
+#EXTINF:-1 tvg-id="10"  group-title="BAYRAM",Жара TV
+https://m.horjuntv.com.tm/chanel2/ch096_720/index.m3u8
+#EXTINF:-1 tvg-id="11"  group-title="BAYRAM",THT music
+https://horjuntv.com.tm/chanel/ch036_720/index.m3u8
+#EXTINF:-1 tvg-id="12"  group-title="BAYRAM",O2 TV
+https://horjuntv.com.tm/chanel2/ch086_720/index.m3u8
+#EXTINF:-1 tvg-id="13"  group-title="BAYRAM",Music box RU
+https://m.horjuntv.com.tm/chanel/ch046_720/index.m3u8
+#EXTINF:-1 tvg-id="14"  group-title="BAYRAM",Восток TV
+https://horjuntv.com.tm/chanel/ch085_720/index.m3u8
+#EXTINF:-1 tvg-id="15"  group-title="BAYRAM",CTC
+https://horjuntv.com.tm/chanel2/ch021_720/index.m3u8
+#EXTINF:-1 tvg-id="16"  group-title="BAYRAM",Пятница
+https://m.horjuntv.com.tm/chanel/ch056_720/index.m3u8
+#EXTINF:-1 tvg-id="17"  group-title="BAYRAM",STAR TV
+https://m.horjuntv.com.tm/chanel/ch092_720/index.m3u8
+#EXTINF:-1 tvg-id="18"  group-title="BAYRAM",Show TV
+https://horjuntv.com.tm/chanel/ch091_720/index.m3u8
+#EXTINF:-1 tvg-id="19"  group-title="BAYRAM",Kinoteatr
+https://horjuntv.com.tm/chanel2/ch066_720/index.m3u8
+#EXTINF:-1 tvg-id="20"  group-title="BAYRAM",Mir 24
+https://horjuntv.com.tm/chanel2/ch030_720/index.m3u8
+#EXTINF:-1 tvg-id="21"  group-title="BAYRAM",Матч боес
+https://m.horjuntv.com.tm/chanel/ch097_720/index.m3u8
+#EXTINF:-1 tvg-id="23"  group-title="BAYRAM",Kanal 7
+https://horjuntv.com.tm/chanel/ch035_720/index.m3u8
+#EXTINF:-1 tvg-id="24"  group-title="BAYRAM",Kanal D
+https://horjuntv.com.tm/chanel/ch082_720/index.m3u8
+#EXTINF:-1 tvg-id="25"  group-title="BAYRAM",TV 3
+https://horjuntv.com.tm/chanel2/ch034_720/index.m3u8
+#EXTINF:-1 tvg-id="26"  group-title="BAYRAM",Че!
+https://horjuntv.com.tm/chanel/ch026_720/index.m3u8
+#EXTINF:-1 tvg-id="27"  group-title="BAYRAM",TV 8
+https://horjuntv.com.tm/chanel2/ch095_720/index.m3u8
+#EXTINF:-1 tvg-id="28"  group-title="BAYRAM",Домашний
+https://m.horjuntv.com.tm/chanel/ch029_720/index.m3u8
+#EXTINF:-1 tvg-id="29"  group-title="BAYRAM",TRT music
+https://horjuntv.com.tm/chanel/ch077_720/index.m3u8
+#EXTINF:-1 tvg-id="30"  group-title="BAYRAM",D max
+https://horjuntv.com.tm/chanel2/ch083_720/index.m3u8
+#EXTINF:-1 tvg-id="31"  group-title="BAYRAM",РБК
+https://m.horjuntv.com.tm/chanel2/ch053_720/index.m3u8
+#EXTINF:-1 tvg-id="32"  group-title="BAYRAM",REN TV
+https://m.horjuntv.com.tm/chanel/ch037_720/index.m3u8
+#EXTINF:-1 tvg-id="33"  group-title="BAYRAM",Дикая охота
+https://horjuntv.com.tm/chanel2/ch099_720/index.m3u8
+#EXTINF:-1 tvg-id="34"  group-title="BAYRAM",Звезда
+https://horjuntv.com.tm/chanel2/ch019_720/index.m3u8
+#EXTINF:-1 tvg-id="35"  group-title="BAYRAM",Звезда +
+https://m.horjuntv.com.tm/chanel/ch020_720/index.m3u8
+#EXTINF:-1 tvg-id="36"  group-title="BAYRAM",CTC +
+https://horjuntv.com.tm/chanel/ch023_720/index.m3u8
+#EXTINF:-1 tvg-id="37"  group-title="BAYRAM",НТВ
+https://m.horjuntv.com.tm/chanel/ch017_400/index.m3u8
+#EXTINF:-1 tvg-id="38"  group-title="BAYRAM",Mono TV
+https://horjuntv.com.tm/chanel/ch0100_720/index.m3u8
+#EXTINF:-1 tvg-id="39"  group-title="BAYRAM",IDman TV
+https://horjuntv.com.tm/chanel/ch062_720/index.m3u8
+#EXTINF:-1 tvg-id="40"  group-title="BAYRAM",TRT 1
+https://horjuntv.com.tm/chanel/ch076_720/index.m3u8
+#EXTINF:-1 tvg-id="41"  group-title="BAYRAM",Первый канал
+https://horjuntv.com.tm/chanel/ch008_720/index.m3u8
+#EXTINF:-1 tvg-id="42" " group-title="BAYRAM",CCTV
+https://horjuntv.com.tm/chanel2/ch061_720/index.m3u8
+#EXTINF:-1 tvg-id="43"  group-title="BAYRAM",EURO news
+https://horjuntv.com.tm/chanel/ch059_720/index.m3u8
+#EXTINF:-1 tvg-id="44"  group-title="BAYRAM",Rossiya 1
+https://horjuntv.com.tm/chanel2/ch010_720/index.m3u8
+#EXTINF:-1 tvg-id="45"  group-title="BAYRAM",Россия 24
+https://m.horjuntv.com.tm/chanel/ch014_720/index.m3u8
+#EXTINF:-1 tvg-id="46"  group-title="BAYRAM",Chochuklar
+https://horjuntv.com.tm/chanel2/ch088_720/index.m3u8
+#EXTINF:-1 tvg-id="47"  group-title="BAYRAM",МУЛТ TV
+https://m.horjuntv.com.tm/chanel/ch051_720/index.m3u8
+#EXTINF:-1 tvg-id="48"  group-title="BAYRAM",Fudbol TV
+https://horjuntv.com.tm/chanel2/ch093_720/index.m3u8
+#EXTINF:-1 tvg-id="49"  group-title="BAYRAM",FUDBOOL TV
+https://m.horjuntv.com.tm/chanel2/ch052_720/index.m3u8
+#EXTINF:-1 tvg-id="50"  group-title="BAYRAM",BIZ TV
+https://fl.biztv.media/biz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="51"  group-title="BAYRAM",BIZ CINEMA
+https://fl.biztv.media/cinema_480_MxuKnOrVwjtfOhIdTUYiFgKwreWamb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="52"  group-title="BAYRAM",BIZ MUSIC
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,TIK TOK
+https://fl1001.bozztv.com/ushba61/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="67"  group-title="BAYRAM",Кинохит
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#EXTINF:-1 group-title="BAYRAM", Киносвидание
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="64" group-title="BAYRAM",Киномикc
+http://185.50.148.2:7711/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Киносемья
+http://185.50.148.2:7711/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Киносерия
+http://185.50.148.2:7711/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Кинокомедия
+http://185.50.148.2:7711/Kinokomedija/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Мужское кино
+http://95.142.88.250:80/muzhskoe_kino_hd/index.m3u8
+#EXTINF:-1 tvg-id="65"  group-title="BAYRAM",РОДНОЕ КИНО
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 tvg-id="74"  group-title="BAYRAM",Киноужас
+http://109.200.130.123:7537/play/a021
+#EXTINF:-1 group-title="BAYRAM" tvg-id="62" ,КОШМАР TV
+https://hls.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-id="76"  group-title="BAYRAM",Наше Новое Кино
+http://95.142.88.250:80/nashe_novoe_kino/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Индийское кино
+http://arbiter.bolshoe.tv/?path=abr1/india/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="79"  group-title="BAYRAM",Кинеко
+http://185.50.148.2:7703/Fox/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Киносат
+http://95.142.88.250:80/Kinoman/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Кино ТВ
+http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+#EXTINF:-1 group-title="BAYRAM",Еврокино
+http://185.50.148.2:7709/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="80"  group-title="BAYRAM",НСТ
+http://185.50.148.2:7707/NST/index.m3u8
+#EXTINF:-1 tvg-id="81"  group-title="BAYRAM",Эхо TV
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema" group-title="BAYRAM", Смотрим Кино и сериалы
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Кино и сериалы
+https://hls.goodgame.ru/hls/206513.m3u8 
+#EXTINF:-1 tvg-id="84"  group-title="BAYRAM", Любимое кино 
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
+#EXTINF:-1 tvg-id="85"  group-title="BAYRAM", 1FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-id="86"  group-title="BAYRAM", 2FILMAX
+http://hls.goodgame.ru:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-id="130"  group-title="BAYRAM",Viju TV1000
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 tvg-id="131"  group-title="BAYRAM",Viju TV1000 Action
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 tvg-id="132"  group-title="BAYRAM",Viju TV1000 Русское
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+#EXTINF:-1 tvg-id="137"  group-title="BAYRAM",Viju+serial
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="BAYRAM",Amedia 1
+http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 tvg-id="92"  group-title="BAYRAM", Amedia 2 
+http://185.50.148.2:7707/A2/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Amedia Hit
+http://185.50.148.2:7707/AMEDIAHIT/index.m3u8
+#EXTINF:-1 tvg-id="93"  group-title="BAYRAM", Amedia Premium
+http://185.50.148.2:7707/AmediaPremium/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema" group-title="BAYRAM", MGM
+#EXTVLCOPT:http-user-agent=SmartTV
+https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema" group-title="BAYRAM", ВосходТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/manifest/202997_master.m3u8
+#EXTINF:-1  group-title="BAYRAM", Fantom
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hlss.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 group-title="BAYRAM" ,Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Русский Роман
+http://arbiter.bolshoe.tv/?path=streaming/rus_roman/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="87"  group-title="BAYRAM", Русский бестселлер
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="88"  group-title="BAYRAM", Русский детектив 
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 group-title="BAYRAM",Русский Иллюзион
+http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="90"  group-title="BAYRAM",Иллюзион+
+http://185.50.148.2:7707/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-id="94" group-title="BAYRAM" ,Bollywood
+http://95.142.88.250:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-id="95" group-title="BAYRAM" ,Hollywood
+http://185.50.148.2:7707/Hollywood/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Timeless Dizi Channel
+http://95.142.88.250:80/Timeless_Dizi_Channel/index.m3u8
+#EXTINF:-1 tvg-id="97" group-title="BAYRAM" , .Black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+#EXTINF:-1 group-title="BAYRAM",.Red
+http://185.50.148.2:7707/red/index.m3u8
+#EXTINF:-1 tvg-id="98" group-title="BAYRAM" , .Sci-fi 
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 tvg-id="99" group-title="BAYRAM" , 312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="100" group-title="BAYRAM" , 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="101" group-title="BAYRAM" , Дом кино
+http://93.189.224.246:52900/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="102" group-title="BAYRAM" , Дом кино Премиум
+http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+#EXTINF:-1 group-title="BAYRAM",Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 group-title="BAYRAM",FlixSnip
+http://185.50.148.2:7703/FlixSnip/index.m3u8
+#EXTINF:-1 tvg-id="107" group-title="BAYRAM", Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="108"  group-title="BAYRAM", Кино без границ
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 tvg-id="109"  group-title="BAYRAM", Сапфир
+http://109.200.130.123:7537/play/a028
+#EXTINF:-1 tvg-id="110"  group-title="BAYRAM", Kinoliving
+http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 tvg-id="111"  group-title="BAYRAM", Shot TV
+http://109.200.130.123:7537/play/a02b
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 1
+https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 2
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 3
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 4
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 5
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 6
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 7
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 8
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 9
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" ,Кинозалы 10
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,Кинозалы 11
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,Кинозалы 12
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="BAYRAM"  , Infinity 
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,Infinity 2
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM" ,K pop Play TV
+https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  , Indian 
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM",RU.TV
+http://arbiter.bolshoe.tv/?path=streaming/rutv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="58"  group-title="BAYRAM",RU TV Беларусь
+http://93.189.224.246:52900/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="59"  group-title="BAYRAM",МУЗ TV
+http://arbiter.bolshoe.tv/?path=streaming/muztv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="BAYRAM" ,Europa Plus TV
+http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="112"  group-title="BAYRAM",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="113"  group-title="BAYRAM",Power
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="114"  group-title="BAYRAM",Power Turk akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="115"  group-title="BAYRAM",Power Turk taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="116"  group-title="BAYRAM",Power Turk slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="117"  group-title="BAYRAM",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-id="118"  group-title="BAYRAM",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 group-title="BAYRAM",Bridge TV
+http://arbiter.bolshoe.tv/?path=streaming/brigge/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="BAYRAM",Bridge TV Русский Хит
+http://arbiter.bolshoe.tv/?path=abr1/rusong_tv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="BAYRAM",Bridge TV Classic
+http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="BAYRAM",Bridge TV Rock
+http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1   group-title="BAYRAM"  ,Song TV
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1   group-title="BAYRAM",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1   group-title="BAYRAM",POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_music"  group-title="BAYRAM", radio m2o
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-id="no_epg_music"  group-title="BAYRAM", XITE
+http://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1   group-title="BAYRAM",Kronehit tv HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="126"  group-title="BAYRAM",Приколы
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="BAYRAM" , Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="127"  group-title="BAYRAM", Карусель
+http://arbiter.bolshoe.tv/?path=abr1/karusel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDc6NTg6MDggQU0maGFzaF92YWx1ZT11Q0VYaVp1UVNNVTFYMzBTNGRRR1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="53"  group-title="BAYRAM", MiMi TV 
+https://fl.biztv.media/MiMiTV_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="129"  group-title="BAYRAM", В гостях у сказки
+http://109.200.130.123:7537/play/a02m
+#EXTINF:-1 group-title="BAYRAM",Futurama
+https://hls.goodgame.ru/hls/199417.m3u8
+
+
+
+#EXTINF:-1 tvg-id="138"  group-title="BAYRAM",Viju+ Sport
+http://185.50.148.2:7703/ViasatSport/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Viju History
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="BAYRAM",Бокс ТВ
+http://95.142.88.250:80/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-id="139"  group-title="BAYRAM", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+
+#EXTINF:-1 tvg-id="96" group-title="BAYRAM" ,Baku tv
+https://rtmp.baku.tv/live/bakutv_360p.m3u8
+#EXTINF:-1 tvg-id="54"  group-title="BAYRAM",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM" , Документалка
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="BAYRAM",Казахстан Кызылорда
+http://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1  group-title="BAYRAM",Казахстан Семей
+http://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1   group-title="BAYRAM",Казахстан Кокшетау
+http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1   group-title="BAYRAM",Казахстан Павлодар
+http://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-id="144"  group-title="BAYRAM",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="145"  group-title="BAYRAM",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8?hls_proxy_host=65812518c6e3e872e73665c286f18438
+#EXTINF:-1 tvg-id="146"  group-title="BAYRAM",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+
+#EXTINF:-1   group-title="BAYRAM",STAR TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1   group-title="BAYRAM" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Շանթ
+http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1   group-title="BAYRAM",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="BAYRAM" ,Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1  group-title="BAYRAM" ,ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1   group-title="BAYRAM",1TV HD
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1   group-title="BAYRAM",1 არხი განათლება
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="BAYRAM",Formula
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1   group-title="BAYRAM",TV-3 LT HQ
+http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
+#EXTINF:-1   group-title="BAYRAM",TV-3 LV HQ   
+http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
+#EXTINF:-1   group-title="BAYRAM",Tiankov FOLK
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
+#EXTINF:-1   group-title="BAYRAM",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1   group-title="BAYRAM",TVI HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1   group-title="BAYRAM",MULTIMEDIOS COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+
+
+#EXTINF:-1 group-title="BAYRAM"  ,Танцы 1
+https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,Танцы 2
+https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BAYRAM"  ,Fashion Channel
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="148" group-title="BAYRAM" ,Fashion TV Films
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="BAYRAM",FashionTV Junior
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM"  , Fashion 1
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM"  ,Fashion 2
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM"  ,Fashion 3
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM"  ,Fashion 4
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM"  ,Fashion 5
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="BAYRAM" ,Fashion 6
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="XXX", Asian XXX HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47193.ts
+#EXTINF:-1 group-title="XXX", Eromania 4K
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47194.ts
+#EXTINF:-1 group-title="XXX", SuperONE HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47207.ts
+#EXTINF:-1 tvg-id="X1" group-title="XXX",Brazzers TV Europe
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47192.ts
+#EXTINF:-1 tvg-id="X4"  group-title="XXX", Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-id="X8" group-title="XXX", Exxxotika
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1 group-title="XXX", PORNFIDELITY HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47191.ts
+#EXTINF:-1 group-title="XXX", XXL HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47197.ts
+#EXTINF:-1 group-title="XXX", CUMKITCHEN TV HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47204.ts
+#EXTINF:-1 group-title="XXX", Dorcel XXX HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47210.ts
+#EXTINF:-1 group-title="XXX", HOT XXL HD
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47211.ts
+#EXTINF:-1 group-title="XXX",VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="X11"  group-title="XXX",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="X12"  group-title="XXX", Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="X13" group-title="XXX", Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="X14"  group-title="XXX", Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="X15"  group-title="XXX", Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="X16"  group-title="XXX", Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="X17"  group-title="XXX", Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="X18"  group-title="XXX", Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="X19"  group-title="XXX", Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="X20"  group-title="XXX", Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="X21"  group-title="XXX", Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="X22"  group-title="XXX", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="X23"  group-title="XXX", Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="X24"  group-title="XXX", Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="X25"  group-title="XXX", Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="X26"  group-title="XXX", Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="X27"  group-title="XXX", Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="X28"   group-title="XXX", Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="X29"   group-title="XXX", MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="X30"   group-title="XXX", Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="X31"   group-title="XXX", POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1  tvg-id="X32"   group-title="XXX", Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="X33"   group-title="XXX", Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1  tvg-id="X34"   group-title="XXX", Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="X35"   group-title="XXX", Threesome
+http://cdn.adultiptv.net/threesome.m3u8
